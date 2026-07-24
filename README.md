@@ -152,6 +152,9 @@ una pregunta.
 PDFs indexados; los ejemplos anteriores son ilustrativos.)*
 
 ---
+## 7. Evidencia de Funcionamiento
+
+<img width="1297" height="512" alt="image" src="https://github.com/user-attachments/assets/629bc44a-807a-4756-8da1-959ffd973c61" />
 
 ## Modelos usados
 
