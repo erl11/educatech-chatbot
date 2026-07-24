@@ -1,0 +1,15 @@
+# Secretos y variables de entorno
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# PDFs de material (no versionar contenido de estudiantes)
+material/
+*.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
